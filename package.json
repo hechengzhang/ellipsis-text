@@ -1,5 +1,5 @@
 {
-  "name": "ellipsis-text",
+  "name": "hecz-ellipsis-text",
   "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
     "build": "webpack --config webpack.config.prod.js && tsc ./src/index.tsx --jsx react --declaration --emitDeclarationOnly --outDir dist"
   },
   "keywords": [],
-  "author": "hechengzhang",
+  "author": "hecz",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.23.9",

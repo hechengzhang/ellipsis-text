@@ -8,7 +8,7 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     filename: 'index.js',
     libraryTarget: 'umd',
-    library: 'ellipsis-text',
+    library: 'hecz-ellipsis-text',
     publicPath: '/',
     umdNamedDefine: true
   },
