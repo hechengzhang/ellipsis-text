@@ -1,0 +1,9 @@
+demo/
+src/
+node_modules/
+.gitignore
+.npmignore
+package-lock.json
+tsconfig.json
+webpack.config.dev.js
+webpack.config.prod.js
